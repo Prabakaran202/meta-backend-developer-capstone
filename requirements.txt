@@ -1,0 +1,6 @@
+django 
+pylint-django 
+mysqlclient 
+python-dotenv 
+djangorestframework 
+djoser
